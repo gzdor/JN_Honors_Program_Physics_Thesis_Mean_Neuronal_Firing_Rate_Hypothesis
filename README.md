@@ -1,0 +1,2 @@
+# JN_Honors_Program_Physics_Thesis_Mean_Neuronal_Firing_Rate_Hypothesis
+This is the MATLAB code used for my Honors Thesis Physics Research Project while at Andrews University doing my bachelors in Electrical and Computer Engineering. This research covers analyzing neuron signal data using mutual information as a non-linear statistic to assess information content of signal time series. Final paper: https://digitalcommons.andrews.edu/honors/217/ 
