@@ -1,4 +1,4 @@
-function mutual = Mutual_Information_JS(a,b,k,binsize)
+function mutual = mutual_information_JS(a,b,k,binsize)
 % INPUT
 %   a: first series
 %   b: second series (currently only set up for being identical to 'a')
