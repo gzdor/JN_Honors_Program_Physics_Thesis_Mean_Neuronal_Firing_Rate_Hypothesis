@@ -1,5 +1,5 @@
 # JN_Honors_Program_Physics_Thesis_Mean_Neuronal_Firing_Rate_Hypothesis
-This is the MATLAB code used for my Honors Thesis Physics Research Project while at Andrews University doing my bachelors in Electrical and Computer Engineering with math and physics minors. This research covers analyzing marmoset monkey neuron signal data using mutual information as a non-linear statistic to assess information content of signal time series. This code is what was used to perform the computations, create the plots, and perform the signal analysis found in the following white paper:
+This is the MATLAB code used for my Honors Thesis Physics Research Project (spring, fall 2018) while at Andrews University doing my bachelors in Electrical and Computer Engineering with math and physics minors. This research covers analyzing marmoset monkey neuron signal data using mutual information as a non-linear statistic to assess information content of signal time series. This code is what was used to perform the computations, create the plots, and perform the signal analysis found in the following white paper:
 
 Final thesis paper: https://digitalcommons.andrews.edu/honors/217/ 
 
@@ -12,4 +12,5 @@ While it is currently well accepted that the mean neuronal firing rate (MNFR) is
 Code specifics: 
   1. written in MATLAB R2018a 
   2. format: individual scripts and functions 
+
 
